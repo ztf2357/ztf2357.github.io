@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>First</title>
+      <title>博客搭建</title>
       <link>http://ztf2357.github.io/post/first/</link>
       <pubDate>Sat, 07 Oct 2017 17:48:11 +0800</pubDate>
       
       <guid>http://ztf2357.github.io/post/first/</guid>
-      <description> 博客搭建 参考链接
+      <description>使用hugo确实比较简单。参考链接如下：
  Hugo中文文档
  Hugo+github搭建博客  </description>
     </item>
