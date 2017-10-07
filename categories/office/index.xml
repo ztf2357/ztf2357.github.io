@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Office on 个人博客</title>
+    <link>http://ztf2357.github.io/categories/office/</link>
+    <description>Recent content in Office on 个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Oct 2017 21:03:09 +0800</lastBuildDate>
+    
+	<atom:link href="http://ztf2357.github.io/categories/office/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Office下载地址</title>
+      <link>http://ztf2357.github.io/post/office/</link>
+      <pubDate>Sat, 07 Oct 2017 21:03:09 +0800</pubDate>
+      
+      <guid>http://ztf2357.github.io/post/office/</guid>
+      <description>注：以下链接随时可能失效。
+Office Professional Plus 2016 简体中文版</description>
+    </item>
+    
+  </channel>
+</rss>

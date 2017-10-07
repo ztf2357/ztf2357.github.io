@@ -19,5 +19,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Office</title>
+      <link>http://ztf2357.github.io/categories/office/</link>
+      <pubDate>Sat, 07 Oct 2017 21:03:09 +0800</pubDate>
+      
+      <guid>http://ztf2357.github.io/categories/office/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Os</title>
+      <link>http://ztf2357.github.io/categories/os/</link>
+      <pubDate>Sat, 07 Oct 2017 21:03:09 +0800</pubDate>
+      
+      <guid>http://ztf2357.github.io/categories/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://ztf2357.github.io/categories/windows/</link>
+      <pubDate>Sat, 07 Oct 2017 21:03:09 +0800</pubDate>
+      
+      <guid>http://ztf2357.github.io/categories/windows/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

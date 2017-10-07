@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ztf2357.github.io/post/office/</loc>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ztf2357.github.io/post/win10/</loc>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ztf2357.github.io/post/first/</loc>
     <lastmod>2017-10-07T17:48:11+08:00</lastmod>
   </url>
@@ -19,20 +29,44 @@
   </url>
   
   <url>
-    <loc>http://ztf2357.github.io/tags/hugo/</loc>
-    <lastmod>2017-10-07T17:48:11+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://ztf2357.github.io/categories/hugo/</loc>
     <lastmod>2017-10-07T17:48:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ztf2357.github.io/post/</loc>
+    <loc>http://ztf2357.github.io/tags/hugo/</loc>
     <lastmod>2017-10-07T17:48:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ztf2357.github.io/categories/office/</loc>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ztf2357.github.io/tags/office/</loc>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ztf2357.github.io/categories/os/</loc>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ztf2357.github.io/post/</loc>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ztf2357.github.io/tags/software/</loc>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -43,8 +77,20 @@
   </url>
   
   <url>
+    <loc>http://ztf2357.github.io/tags/win10/</loc>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ztf2357.github.io/categories/windows/</loc>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ztf2357.github.io/</loc>
-    <lastmod>2017-10-07T17:48:11+08:00</lastmod>
+    <lastmod>2017-10-07T21:03:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   

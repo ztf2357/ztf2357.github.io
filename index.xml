@@ -6,10 +6,29 @@
     <description>Recent content on 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Oct 2017 17:48:11 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 21:03:09 +0800</lastBuildDate>
     
 	<atom:link href="http://ztf2357.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Office下载地址</title>
+      <link>http://ztf2357.github.io/post/office/</link>
+      <pubDate>Sat, 07 Oct 2017 21:03:09 +0800</pubDate>
+      
+      <guid>http://ztf2357.github.io/post/office/</guid>
+      <description>注：以下链接随时可能失效。
+Office Professional Plus 2016 简体中文版</description>
+    </item>
+    
+    <item>
+      <title>Win10使用技巧</title>
+      <link>http://ztf2357.github.io/post/win10/</link>
+      <pubDate>Sat, 07 Oct 2017 21:03:09 +0800</pubDate>
+      
+      <guid>http://ztf2357.github.io/post/win10/</guid>
+      <description> win10添加开机启动项。将快捷方式加入文件夹： &amp;gt; C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp  </description>
+    </item>
     
     <item>
       <title>博客搭建</title>
