@@ -27,7 +27,8 @@ Office Professional Plus 2016 简体中文版</description>
       <pubDate>Sat, 07 Oct 2017 21:03:09 +0800</pubDate>
       
       <guid>http://ztf2357.github.io/post/win10/</guid>
-      <description> win10添加开机启动项。将快捷方式加入文件夹： &amp;gt; C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp  </description>
+      <description> win10添加开机启动项。将快捷方式加入文件夹：   C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+ </description>
     </item>
     
     <item>
